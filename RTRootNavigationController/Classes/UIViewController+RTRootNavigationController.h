@@ -39,7 +39,6 @@
 
 @end
 
-IB_DESIGNABLE
 @interface UIViewController (RTRootNavigationController) <RTNavigationItemCustomizable>
 
 /*!

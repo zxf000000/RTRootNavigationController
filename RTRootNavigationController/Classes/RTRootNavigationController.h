@@ -55,7 +55,6 @@ self.window.rootViewController = [[RTRootNavigationController alloc] initWithRoo
  *  @coclass RTContainerController
  *  @coclass RTContainerNavigationController
  */
-IB_DESIGNABLE
 @interface RTRootNavigationController : UINavigationController
 
 /*!
